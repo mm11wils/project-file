@@ -1,3 +1,6 @@
+# What we have
+Is 3 examples of the final engine I'd like.
+
 # project-file
 
 Ed have a look at the "combat" code, that is a simplified version of the base engine I need.
