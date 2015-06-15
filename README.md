@@ -1,5 +1,11 @@
-# What we have
-Is 3 examples of the final engine I'd like.
+# Combat
+This is a smaller version of the code that i've been using to test combat mechinisms
+
+# original
+Is a final product of an engine, but it doesnt use separate modules, and can get big really fast if expanded upon.
+
+# Main
+Is an expanded upon version of the original file, the code is made available as a source. As you can see it is rather clunky and could use separate modules for more efficient additions
 
 # project-file
 
